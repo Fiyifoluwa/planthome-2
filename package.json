@@ -1,0 +1,22 @@
+{
+  "name": "planthome",
+  "version": "1.0.0",
+  "description": "The design for this project was created by <a href=\"https://karenane.com\">Karen</a> and built by me, <a href=\"https://fiyifoluwa.vercel.app\"> Fiyifoluwa.</a>",
+  "main": "index.html",
+  "scripts": {
+    "compile:sass": "node-sass sass/style.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fiyifoluwa/planthome.git"
+  },
+  "author": "Fiyifoluwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fiyifoluwa/planthome/issues"
+  },
+  "homepage": "https://github.com/Fiyifoluwa/planthome#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
